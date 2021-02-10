@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+header {
+    background: rgba(255, 255, 255, 0.596);
+    width: 100%;
+    font-size: 7vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    text-align: unset;
+    padding: 1%;
+    width: 98%;
+}
+
+.redes-sociais i {
+    color: rgb(233, 12, 178);
+}
+
+.redes-sociais i:hover {
+    color: rgb(241, 124, 231);
+}
+
+.logo-nome {
+    width: 10vh;
+}
+
+body {
+    background: rgba(143, 79, 116, 0.883);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.foto {
+    padding: 2%;
+    border-radius: 40%;
+    width: 40vh;
+}
+
+.about h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+}
+
+.about p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
