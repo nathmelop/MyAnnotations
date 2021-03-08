@@ -4,5 +4,5 @@
     <img src="https://github.com/nathmelop/MyAnnotations/raw/main/Atividade%20Reprograma/pag-principal.png" alt="pagina principal"/></a>
 
 
-Página proposta do curso repraMaria  
+Página proposta do curso PrograMaria  
 </p>
